@@ -16,5 +16,5 @@
 React, Redux, HTML, CSS3, JavaScript
 ### Backend
 Node.js, SQL, Postgres
-#### Tools
+### Tools
 Git, Notion, Trello, Figma
