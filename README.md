@@ -8,3 +8,13 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justin-marks-dev/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love working out
+
+
+### Skills
+
+## Front End
+React, Redux, HTML, CSS3, JavaScript
+## Backend
+Node.js, SQL, Postgres
+## Tools
+Git, Notion, Trello, Figma
