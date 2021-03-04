@@ -10,11 +10,11 @@
 - ⚡ Fun fact: I love working out
 
 
-### Skills
+## Skills
 
-## Front End
+### Front End
 React, Redux, HTML, CSS3, JavaScript
-## Backend
+### Backend
 Node.js, SQL, Postgres
-## Tools
+#### Tools
 Git, Notion, Trello, Figma
