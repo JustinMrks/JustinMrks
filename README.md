@@ -7,7 +7,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justin-marks-dev/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love working out
+- ⚡ Fun fact: Weightlifting
 
 
 ## Skills
