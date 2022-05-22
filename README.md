@@ -1,13 +1,11 @@
 ### What I'm doing 👋
 
 
-- 🔭 I’m currently working on the Lambda Alumni Network
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with job hunting
+- 🔭 I’m currently working on a Gym Management Application
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justin-marks-dev/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Weightlifting
+- ⚡ Fun fact: I love olympic weightlifting
 
 
 ## Skills
