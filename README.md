@@ -1,11 +1,11 @@
 ### What I'm doing 👋
 
 
-- 🔭 I’m currently working on a Gym Management Backend
+- 🔭 I’m currently working on Learning Typescript
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justin-marks-dev/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love olympic weightlifting
+- ⚡ Fun fact: I love weightlifting
 
 
 ## Skills
